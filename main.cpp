@@ -42,7 +42,7 @@ int main()
             break;
         }
     }
-
+cout << "Hello world" << endl;
 
     return 0;
 }
